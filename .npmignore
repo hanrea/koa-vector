@@ -1,0 +1,13 @@
+node_modules/*
+.idea
+.vscode
+.pid
+.git
+.DS_Store
+.*.swp
+._*
+npm-debug.log
+config.gypi
+.lock-wscript
+.npmrc
+.hg
