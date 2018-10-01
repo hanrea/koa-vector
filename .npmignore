@@ -11,3 +11,8 @@ config.gypi
 .lock-wscript
 .npmrc
 .hg
+.travis.yml
+.gitignore
+bench
+example
+test

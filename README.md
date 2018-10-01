@@ -1,14 +1,11 @@
-koa2-routing
+koa-vector
+
 ================
 
-
-
-
+灵活的koa路由，支持自由连接
+支持域名绑定，目前在内部实验中
 
 ```javascript
-
-// koa-routing 无法多个实例
-
 // 需要完成这样的用法
 var app1= new Koa();
 var app2= new Koa();
