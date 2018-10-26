@@ -1,35 +1,35 @@
 {
-    "name": "koa-vector",
-    "version": "0.1.2",
-    "description": "New Router for Koa2, like express style,easy and powerful!",
-    "main": "index.js",
-    "scripts": {
-      "test": "npm i && make test"
-    },
-    "keywords": [
-      "koa",
-      "route",
-      "router",
-      "koa-vector"
-    ],
-    "author": "Hanrea",
-    "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hanrea/koa-vector.git"
-    },
-    "bugs": {
-      "url": "https://github.com/hanrea/koa-vector/issues"
-    },
-    "dependencies": {
-      "assert": "^1.4.1",
-      "path-to-regexp": "^2.1.0"
-    },
-    "devDependencies": {
-      "koa": "^2.4.1",
-      "mocha": "^3.2.0",
-      "should": "^11.2.1",
-      "supertest": "^3.0.0"
-    }
+  "name": "koa-vector",
+  "version": "0.1.3",
+  "description": "New Router for Koa2, like express style,easy and powerful!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i && make test"
+  },
+  "keywords": [
+    "koa",
+    "route",
+    "router",
+    "koa-vector"
+  ],
+  "author": "Hanrea",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanrea/koa-vector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hanrea/koa-vector/issues"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "debug": "^4.0.1",
+    "path-to-regexp": "^2.1.0"
+  },
+  "devDependencies": {
+    "koa": "^2.4.1",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
   }
-  
+}
