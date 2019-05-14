@@ -22,14 +22,14 @@
     "url": "https://github.com/hanrea/koa-vector/issues"
   },
   "dependencies": {
-    "mz": "^2.7.0",
-    "debug": "^4.0.1",
     "assert": "^1.4.1",
+    "debug": "^4.0.1",
+    "mz": "^2.7.0",
     "path-to-regexp": "^2.1.0"
   },
   "devDependencies": {
     "koa": "^2.4.1",
-    "mocha": "^3.2.0",
+    "mocha": "^6.1.4",
     "should": "^11.2.1",
     "supertest": "^3.0.0"
   }
