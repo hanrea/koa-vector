@@ -13,7 +13,7 @@ function test(path, link){
     console.log("====================");
     console.log("====================");
     console.log("====================");
-    console.log("测试路由》》》   "+path +"  >>>>    "+link);
+    console.log("test router》》》   "+path +"  >>>>    "+link);
     console.log(pathReg)
     console.log(prefReg)
     console.log("-----------------");

@@ -1,6 +1,6 @@
 {
   "name": "koa-vector",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "New Router for Koa2, like express style,easy and powerful!",
   "main": "index.js",
   "scripts": {
